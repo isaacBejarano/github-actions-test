@@ -1,2 +1,4 @@
 * master
 * still master
+* set action CI
+* set Kanban Project table
