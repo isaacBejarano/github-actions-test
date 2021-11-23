@@ -37,4 +37,4 @@ jobs:
           
       # Runs JEST
       - name: Run JEST
-        run: npm run test
+        run: npm i && npm run test
